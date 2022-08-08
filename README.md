@@ -23,3 +23,7 @@
 3. [Copy SimpleGeneralMessage.sol into Remix](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5)
 4. Send a cross chain message from Moonbeam to Ethereum. Note, we are performing these steps on testnet but Axelar refers to each chain by its mainnet name.
 5. Track the status of your cross chain message by looking up the transaction on [AxelarScan](https://testnet.axelarscan.io/)
+
+### Extra-Curriculars (Post Workshop) 
+* [Send XC-20s Cross Chain with XCM](https://docs.moonbeam.network/builders/xcm/xc20/xtokens/) 
+* [Try out remote execution with XCM](https://docs.moonbeam.network/builders/xcm/xcm-transactor/)
