@@ -6,7 +6,7 @@
 1. [Install MetaMask](https://metamask.io/)
 2. [Add Moonbase Alpha Network to MetaMask via the Button at the Top of Page](https://docs.moonbeam.network/)
 3. [Get funds from the faucet](https://apps.moonbeam.network/moonbase-alpha/faucet/)
-4. [Swap some (not all) DEV tokens for xcUNITS](https://moonbeam-swap.netlify.app/#/swap)
+4. [Swap a tiny bit of DEV tokens for 1 xcUNIT](https://moonbeam-swap.netlify.app/#/swap) *Please only swap for 1 xcUNIT at this time - you'll need to save your DEV for future transactions in the workshop.* 
 5. [Download and Install Polkadot JS Extension](https://polkadot.js.org/extension/)
 6. Create an Account in the Polkadot JS Extension and Select *allow use on any chain*
 
@@ -19,3 +19,7 @@
 
 ### Send a Cross Chain Message with Axelar
 1. [Head to this blog post written by Jeremy from Moonbeam Developer Relations Team](https://moonbeam.network/blog/connected-contracts-axelar/)
+2. [Open up Remix](http://remix.ethereum.org/)
+3. [Copy this contract into Remix](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5)
+4. Send a cross chain message from Moonbeam to Ethereum. Note, we are performing these steps on testnet but Axelar refers to each chain by its mainnet name.
+5. Track the status of your cross chain message by looking up the transaction on [AxelarScan](https://testnet.axelarscan.io/)
