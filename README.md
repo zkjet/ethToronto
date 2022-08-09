@@ -12,7 +12,7 @@
 [COMPLETE]
 ### Perform a Cross Chain Swap via XCM
 1. [X] [Head to Moonbeam Apps](https://apps.moonbeam.network/moonbase-alpha/)
-2. [ ] Transfer 1 xcUNIT token to the Moonbase Relay Chain. Verify arrival by heading to [Moonbase Relay Polkadot JS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffrag-moonbase-relay-rpc-ws.g.moonbase.moonbeam.network#/accounts)
+2. [X] Transfer 1 xcUNIT token to the Moonbase Relay Chain. Verify arrival by heading to [Moonbase Relay Polkadot JS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ffrag-moonbase-relay-rpc-ws.g.moonbase.moonbeam.network#/accounts)
 3. [ ] Transfer some of the xcUNIT token from the Moonbase Relay Chain back to Moonbase Alpha.
 4. [ ] I will make a sample XCM Transfer of DOT from Polkadot to Moonbeam. You can find the exact transaction hash and transfer details here: https://polkaholic.io/chains/#xcmtransfers. Once you have found the txn, click on extrinsic details.
 5. [ ] Using the transaction hash that you found in the prior step, look up the transaction details on [Polkadot Subscan](https://polkadot.subscan.io/)
