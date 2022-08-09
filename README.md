@@ -3,12 +3,12 @@
 
 ### Initial Setup
 
-[X] 1. [Install MetaMask](https://metamask.io/)
-[X] 2. [Add Moonbase Alpha Network to MetaMask via the Button at the Top of Page](https://docs.moonbeam.network/)
-[X] 3. [Get funds from the faucet](https://apps.moonbeam.network/moonbase-alpha/faucet/)
-[ ] 4. [Swap a tiny bit of DEV tokens for 1 xcUNIT](https://moonbeam-swap.netlify.app/#/swap) *Please only swap for 1 xcUNIT at this time - you'll need to save your DEV for future transactions in the workshop.* 
-[ ] 5. [Download and Install Polkadot JS Extension](https://polkadot.js.org/extension/)
-[ ] 6. Create an Account in the Polkadot JS Extension and Select *allow use on any chain*
+1. [X] [Install MetaMask](https://metamask.io/)
+2. [X] [Add Moonbase Alpha Network to MetaMask via the Button at the Top of Page](https://docs.moonbeam.network/)
+3. [X] [Get funds from the faucet](https://apps.moonbeam.network/moonbase-alpha/faucet/)
+4. [X] [Swap a tiny bit of DEV tokens for 1 xcUNIT](https://moonbeam-swap.netlify.app/#/swap) *Please only swap for 1 xcUNIT at this time - you'll need to save your DEV for future transactions in the workshop.* 
+5. [X] [Download and Install Polkadot JS Extension](https://polkadot.js.org/extension/)
+6. Create an Account in the Polkadot JS Extension and Select *allow use on any chain*
 
 ### Perform a Cross Chain Swap via XCM
 [ ] 1. [Head to Moonbeam Apps](https://apps.moonbeam.network/moonbase-alpha/)
