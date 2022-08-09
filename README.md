@@ -18,8 +18,8 @@
 5. [X] Using the transaction hash that you found in the prior step, look up the transaction details on [Polkadot Subscan](https://polkadot.subscan.io/)
 
 ### Send a Cross Chain Message with Axelar
-1. [ ] [Head to this blog post written by Jeremy from Moonbeam Developer Relations Team](https://moonbeam.network/blog/connected-contracts-axelar/)
-2. [ ] [Open up Remix](http://remix.ethereum.org/)
+1. [X] [Head to this blog post written by Jeremy from Moonbeam Developer Relations Team](https://moonbeam.network/blog/connected-contracts-axelar/)
+2. [X] [Open up Remix](http://remix.ethereum.org/)
 3. [ ] [Copy SimpleGeneralMessage.sol into Remix](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5)
 4. [ ] Send a cross chain message from Moonbeam to Ethereum. Note, we are performing these steps on testnet but Axelar refers to each chain by its mainnet name.
 5. [ ] Send a cross chain message from Moonbeam to another network of your choice. Remember to change the relevant network name, destination address, and amount of WEI sent for gas. 
