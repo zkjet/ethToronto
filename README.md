@@ -20,7 +20,7 @@
 ### Send a Cross Chain Message with Axelar
 1. [X] [Head to this blog post written by Jeremy from Moonbeam Developer Relations Team](https://moonbeam.network/blog/connected-contracts-axelar/)
 2. [X] [Open up Remix](http://remix.ethereum.org/)
-3. [ ] [Copy SimpleGeneralMessage.sol into Remix](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5)
+3. [X] [Copy SimpleGeneralMessage.sol into Remix](https://gist.github.com/jboetticher/0188244031df80e9b180568e30bfa7a5)
 4. [ ] Send a cross chain message from Moonbeam to Ethereum. Note, we are performing these steps on testnet but Axelar refers to each chain by its mainnet name.
 5. [ ] Send a cross chain message from Moonbeam to another network of your choice. Remember to change the relevant network name, destination address, and amount of WEI sent for gas. 
 6. [ ] Track the status of your cross chain message by looking up the transaction on [AxelarScan](https://testnet.axelarscan.io/)
